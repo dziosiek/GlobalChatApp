@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PicArt</string>
+    <string name="name">Name</string>
+    <string name="login">Enter your login</string>
+    <string name="password">Enter your password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="repeat_password">Repeat your password</string>
+    <string name="todo">TODO</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>

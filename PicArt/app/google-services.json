@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662049498676",
+    "firebase_url": "https://picart-deac4.firebaseio.com",
+    "project_id": "picart-deac4",
+    "storage_bucket": "picart-deac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662049498676:android:70bfc26336c39a19",
+        "android_client_info": {
+          "package_name": "com.picartapp.picart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662049498676-qsmgrfrmkv9nbph1kksrcekrtjrp8mss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.picartapp.picart",
+            "certificate_hash": "19a6fdeef8cf6ba234f866a77f0475b74a95cb93"
+          }
+        },
+        {
+          "client_id": "662049498676-tqi1dcg50ia08t0le0pjnq54qm0bccc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_e6nf_jUMGDlXERVt7-CaadYEXh4-jM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662049498676-tqi1dcg50ia08t0le0pjnq54qm0bccc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
